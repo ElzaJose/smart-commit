@@ -1,9 +1,9 @@
 [project]
-name = "git-smart-commit"
-version = "0.1.1"
+name = "smart-commit"
+version = "0.0.1"
 description = "Smart Git commit message generator for automation and framework projects."
 authors = [
-  { name = "Your Name", email = "you@example.com" }
+  { name = "ElzaJose", email = "elizabethjose3092@gmail.com" }
 ]
 requires-python = ">=3.7"
 readme = "README.md"
