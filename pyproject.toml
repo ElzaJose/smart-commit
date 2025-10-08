@@ -1,0 +1,13 @@
+[project]
+name = "git-smart-commit"
+version = "0.1.1"
+description = "Smart Git commit message generator for automation and framework projects."
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+requires-python = ">=3.7"
+readme = "README.md"
+license = { text = "MIT" }
+
+[project.scripts]
+smart-commit = "smart_commit.cli:main"
