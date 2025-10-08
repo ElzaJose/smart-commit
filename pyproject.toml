@@ -9,5 +9,8 @@ requires-python = ">=3.7"
 readme = "README.md"
 license = { text = "MIT" }
 
+[tool.setuptools.packages.find]
+include = ["smart_commit"]
+
 [project.scripts]
 smart-commit = "smart_commit.cli:main"
