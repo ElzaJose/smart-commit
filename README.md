@@ -4,6 +4,12 @@
 
 Smart Commit CLI is a Python script designed to help teams standardize their git commit messages. By generating commit messages in a specific, agreed-upon format, this tool ensures that all contributors follow the same conventions, making commit history more readable and understandable for everyone involved in the project.
 
+## Commit Message Example
+
+Here is an example of a generated commit message:
+
+![Commit Message Example](Preview/CommitMsg.png)
+
 ## Features
 - Prompts users to enter commit details in a structured way
 - Generates commit messages in a consistent, project-specific format
